@@ -5,4 +5,4 @@ I want to send a audio file (signal) from my mobile (Android) over BLE. First of
 
 (Is it possible to send audio files over ble in esp32 and store it in sd card and send same signal to amplifier (for speaker))
 
-Best regards PM030
+Best regards praneel03
